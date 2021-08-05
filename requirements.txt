@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiofiles
+
+git+https://github.com/mikeckennedy/fastapi-chameleon
+
+starlette==0.14.2
+python-multipart
+python-dotenv
+gunicorn
